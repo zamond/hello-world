@@ -1,2 +1,6 @@
 # hello-world
-Practice Git repo
+
+Hello hello...
+I don't know why you say good bye...
+I say hello.
+Go to line 3
